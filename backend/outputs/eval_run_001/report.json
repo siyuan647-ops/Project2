@@ -1,0 +1,12 @@
+{
+  "case_count": 0,
+  "judged_count": 0,
+  "skipped_count": 0,
+  "mean_overall_1_5": null,
+  "dimension_means": {},
+  "route_match_rate": null,
+  "route_match_count": null,
+  "latency_ms_mean": null,
+  "tokens_mean": null,
+  "failures": []
+}

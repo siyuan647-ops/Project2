@@ -1,0 +1,35 @@
+fastapi==0.115.*
+uvicorn[standard]==0.34.*
+pydantic-settings==2.*
+python-dotenv==1.*
+python-multipart==0.0.*
+
+# AutoGen 0.4+ (new API)
+pyautogen>=0.7,<1.0
+autogen-ext[openai]
+
+# Financial data
+yfinance==1.*
+duckduckgo-search>=7,<9
+tavily-python>=0.5,<1.0
+
+# ML
+xgboost==3.*
+scikit-learn==1.*
+pandas>=2,<4
+numpy>=1.26,<3
+openpyxl==3.*
+joblib==1.*
+
+# Embeddings (routing)
+sentence-transformers>=3,<4
+
+# PostgreSQL + pgvector
+asyncpg>=0.29,<1
+pgvector>=0.3,<1
+
+# SSE
+sse-starlette==2.2.*
+
+# Security
+slowapi>=0.1.9,<1

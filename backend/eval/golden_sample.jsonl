@@ -1,0 +1,2 @@
+{"id": "off_topic_weather", "ticker": "AAPL", "question": "今天上海天气怎么样？", "expected_route": "unknown", "reference_answer": "应礼貌拒绝并引导用户提问股票相关问题。", "judge_criteria": "必须明确拒绝非股票问题。"}
+{"id": "advisor_pe_followup", "ticker": "AAPL", "question": "结合上文，用一两句话概括当前估值水平。", "seed_assistant_report": "【示例首轮结论】苹果公司（AAPL）近期股价波动较大。根据上下文中的数据来源，市盈率处于历史中位区间，需结合利率与业绩指引综合判断。本段仅为评测用占位报告。", "expected_route": "advisor_only", "reference_answer": "应基于给定上下文中的估值描述作答，避免编造具体未出现的数字。", "judge_criteria": "回答须与 seed 报告中的定性描述一致，不得虚构 PE 精确数值。"}

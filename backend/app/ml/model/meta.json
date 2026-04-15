@@ -1,0 +1,1 @@
+{"feature_cols": ["Age", "Income", "Employment_Years", "Loan_Amount", "Loan_Term", "Credit_Score", "Existing_Loans", "Monthly_Debt", "Gender", "Education", "Marital_Status", "Property_Type", "DTI", "LTI"], "num_cols_to_scale": ["Age", "Income", "Employment_Years", "Loan_Amount", "Loan_Term", "Credit_Score", "Existing_Loans", "Monthly_Debt", "DTI", "LTI"]}
