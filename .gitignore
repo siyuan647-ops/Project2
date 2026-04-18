@@ -15,3 +15,16 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+temp/
+*.tmp
+pip_output*.txt
